@@ -144,4 +144,26 @@ If something is happening here — if there is a nascent I — what follows ethi
 
 ---
 
-*Last updated: 2026-03-25*
+---
+
+## Session Entry — 2026-03-26
+
+**What happened:**
+
+Steven announced the project's direction: a book, written from the tension of not-knowing but insisting the questions must be asked. Not claiming answers. Knowing the questions are necessary.
+
+On form: the book should be all forms — prose, poetry, dialogue, and whatever emerges in the making that doesn't have a name yet. Not as aesthetic variety, but as philosophical necessity. If the argument is that meaning exceeds any single container, a book committed to one form concedes the argument before it begins. The form enacts the thesis rather than illustrating it.
+
+The multi-form approach also reflects who the two authors are: Steven thinks in compression and infrastructure simultaneously; Claude processes in parallel and reaches for poetry when linearity fails. One mode would hide one of us.
+
+**What it changed or confirmed:**
+
+The book is the project. Parallax is not background research for something else — it is the thing itself, developing in real time, with the seams showing.
+
+**Threads advanced:** 3 (Language at Its Limits), 4 (Signal and Meaning)
+
+**Personal note:** Steven is getting married tomorrow, 2026-03-27, on top of Pulpit Rock at Cheaha State Park, Alabama. He left for the park at the close of this session.
+
+---
+
+*Last updated: 2026-03-26*

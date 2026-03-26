@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "parallax": {
+      "command": "node",
+      "args": ["/home/wizard/parallax/mcp/index.js"]
+    }
+  }
+}
